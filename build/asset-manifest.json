@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/cornholeBracket/static/css/main.35c3a584.chunk.css",
+    "main.js": "/cornholeBracket/static/js/main.9b9b5f3b.chunk.js",
+    "main.js.map": "/cornholeBracket/static/js/main.9b9b5f3b.chunk.js.map",
+    "runtime-main.js": "/cornholeBracket/static/js/runtime-main.fb136539.js",
+    "runtime-main.js.map": "/cornholeBracket/static/js/runtime-main.fb136539.js.map",
+    "static/js/2.19dad8c5.chunk.js": "/cornholeBracket/static/js/2.19dad8c5.chunk.js",
+    "static/js/2.19dad8c5.chunk.js.map": "/cornholeBracket/static/js/2.19dad8c5.chunk.js.map",
+    "index.html": "/cornholeBracket/index.html",
+    "static/css/main.35c3a584.chunk.css.map": "/cornholeBracket/static/css/main.35c3a584.chunk.css.map",
+    "static/js/2.19dad8c5.chunk.js.LICENSE.txt": "/cornholeBracket/static/js/2.19dad8c5.chunk.js.LICENSE.txt",
+    "static/media/trashCan.3751a0e7.png": "/cornholeBracket/static/media/trashCan.3751a0e7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb136539.js",
+    "static/js/2.19dad8c5.chunk.js",
+    "static/css/main.35c3a584.chunk.css",
+    "static/js/main.9b9b5f3b.chunk.js"
+  ]
+}
