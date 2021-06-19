@@ -1,0 +1,32 @@
+.Registration {
+    display: flex;
+    flex-direction: column;
+    font-size: 30px;
+    user-select: none;
+}
+
+.Registration button {
+    max-width: 200px;
+    margin: 20px auto;
+    font-size: 20px;
+}
+
+.Registration img {
+    height: 1.2rem;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.Registration .team {
+    display: flex;
+    align-items: center;
+    width: 40vw;
+    margin: 0 auto;
+    justify-content: space-between;
+    border-bottom: solid lightgray 1px;
+}
+
+.Registration input {
+    margin-right: 10px;
+}

@@ -1,0 +1,21 @@
+.Round {
+    border: solid black 1px;
+    width: fit-content;
+    margin: 50px auto;
+    padding: 10px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.Round .game {
+    margin: 10px;
+    border: solid 3px black;
+    padding: 5px;
+    width: 150px;
+}
+
+.Round .game div {
+    cursor: pointer;
+}
